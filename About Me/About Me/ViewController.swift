@@ -18,7 +18,7 @@ class ViewController: UIViewController {
 
     @IBAction func introduceButtonClicked(_ sender: Any) {
         let name: String = "Carlos"
-        print(name)
+        print("Hello, my name is \(name)")
     }
     
 }
